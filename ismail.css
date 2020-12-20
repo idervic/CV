@@ -1,0 +1,45 @@
+*{
+  padding:0;
+  margin: 0;
+}
+.left {
+  background-color: rgb(255,179,0);
+  width:auto;
+  height:130px;
+}
+.ispod {
+  background-image: url(wld.jpg);
+  width: auto;
+  height: 530px;
+}
+.wl {
+  position: absolute;
+  left: 40px;
+  top: 260px;
+}
+.tx {
+  position: absolute;
+  left:35%;
+  top: 170px;
+}
+.tx1 {
+  position: absolute;
+  left:22%;
+  top: 215px;
+}
+.footer {
+  background-color: gray;
+  width: auto;
+  height: 57px;
+  text-align: center;
+}
+.box {
+  border: 1px solid white;
+  width: 120px;
+  height: 45px;
+  position: absolute;
+  left: 40px;
+  top: 360px;
+  text-align: center;
+  text-decoration-color: white;
+}
